@@ -1,0 +1,24 @@
+# Ignore emacs temporary files
+\#*
+.\#*
+
+# vi temp files
+*~
+*.swp
+# Mergetool files
+*.orig
+
+# Ignore intellij files
+.idea
+*.iml
+*.ipr
+*.iws
+*.ids
+*.class
+
+
+# Generated files/entity
+target/
+build/
+bin/
+logs/
